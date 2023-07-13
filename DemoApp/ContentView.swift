@@ -3,8 +3,7 @@
 //  DemoApp
 //
 //  Created by Rohit Singh Rana on 16/09/22.
-//  Created by Gokulanandan
-//  Created by Mohit
+// Sudha Dafouti
 
 import SwiftUI
 
